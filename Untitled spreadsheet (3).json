@@ -1,0 +1,3258 @@
+[
+ {
+  "id": 1,
+  "icon": "bx-abacus.svg"
+ },
+ {
+  "id": 2,
+  "icon": "bx-accessibility.svg"
+ },
+ {
+  "id": 3,
+  "icon": "bx-add-to-queue.svg"
+ },
+ {
+  "id": 4,
+  "icon": "bx-adjust.svg"
+ },
+ {
+  "id": 5,
+  "icon": "bx-alarm-add.svg"
+ },
+ {
+  "id": 6,
+  "icon": "bx-alarm-exclamation.svg"
+ },
+ {
+  "id": 7,
+  "icon": "bx-alarm-off.svg"
+ },
+ {
+  "id": 8,
+  "icon": "bx-alarm-snooze.svg"
+ },
+ {
+  "id": 9,
+  "icon": "bx-alarm.svg"
+ },
+ {
+  "id": 10,
+  "icon": "bx-album.svg"
+ },
+ {
+  "id": 11,
+  "icon": "bx-align-justify.svg"
+ },
+ {
+  "id": 12,
+  "icon": "bx-align-left.svg"
+ },
+ {
+  "id": 13,
+  "icon": "bx-align-middle.svg"
+ },
+ {
+  "id": 14,
+  "icon": "bx-align-right.svg"
+ },
+ {
+  "id": 15,
+  "icon": "bx-analyse.svg"
+ },
+ {
+  "id": 16,
+  "icon": "bx-anchor.svg"
+ },
+ {
+  "id": 17,
+  "icon": "bx-angry.svg"
+ },
+ {
+  "id": 18,
+  "icon": "bx-aperture.svg"
+ },
+ {
+  "id": 19,
+  "icon": "bx-arch.svg"
+ },
+ {
+  "id": 20,
+  "icon": "bx-archive-in.svg"
+ },
+ {
+  "id": 21,
+  "icon": "bx-archive-out.svg"
+ },
+ {
+  "id": 22,
+  "icon": "bx-archive.svg"
+ },
+ {
+  "id": 23,
+  "icon": "bx-area.svg"
+ },
+ {
+  "id": 24,
+  "icon": "bx-arrow-back.svg"
+ },
+ {
+  "id": 25,
+  "icon": "bx-arrow-from-bottom.svg"
+ },
+ {
+  "id": 26,
+  "icon": "bx-arrow-from-left.svg"
+ },
+ {
+  "id": 27,
+  "icon": "bx-arrow-from-right.svg"
+ },
+ {
+  "id": 28,
+  "icon": "bx-arrow-from-top.svg"
+ },
+ {
+  "id": 29,
+  "icon": "bx-arrow-to-bottom.svg"
+ },
+ {
+  "id": 30,
+  "icon": "bx-arrow-to-left.svg"
+ },
+ {
+  "id": 31,
+  "icon": "bx-arrow-to-right.svg"
+ },
+ {
+  "id": 32,
+  "icon": "bx-arrow-to-top.svg"
+ },
+ {
+  "id": 33,
+  "icon": "bx-at.svg"
+ },
+ {
+  "id": 34,
+  "icon": "bx-atom.svg"
+ },
+ {
+  "id": 35,
+  "icon": "bx-award.svg"
+ },
+ {
+  "id": 36,
+  "icon": "bx-badge-check.svg"
+ },
+ {
+  "id": 37,
+  "icon": "bx-badge.svg"
+ },
+ {
+  "id": 38,
+  "icon": "bx-baguette.svg"
+ },
+ {
+  "id": 39,
+  "icon": "bx-ball.svg"
+ },
+ {
+  "id": 40,
+  "icon": "bx-band-aid.svg"
+ },
+ {
+  "id": 41,
+  "icon": "bx-bar-chart-alt-2.svg"
+ },
+ {
+  "id": 42,
+  "icon": "bx-bar-chart-alt.svg"
+ },
+ {
+  "id": 43,
+  "icon": "bx-bar-chart-square.svg"
+ },
+ {
+  "id": 44,
+  "icon": "bx-bar-chart.svg"
+ },
+ {
+  "id": 45,
+  "icon": "bx-barcode-reader.svg"
+ },
+ {
+  "id": 46,
+  "icon": "bx-barcode.svg"
+ },
+ {
+  "id": 47,
+  "icon": "bx-baseball.svg"
+ },
+ {
+  "id": 48,
+  "icon": "bx-basket.svg"
+ },
+ {
+  "id": 49,
+  "icon": "bx-basketball.svg"
+ },
+ {
+  "id": 50,
+  "icon": "bx-bath.svg"
+ },
+ {
+  "id": 51,
+  "icon": "bx-battery.svg"
+ },
+ {
+  "id": 52,
+  "icon": "bx-bed.svg"
+ },
+ {
+  "id": 53,
+  "icon": "bx-been-here.svg"
+ },
+ {
+  "id": 54,
+  "icon": "bx-beer.svg"
+ },
+ {
+  "id": 55,
+  "icon": "bx-bell-minus.svg"
+ },
+ {
+  "id": 56,
+  "icon": "bx-bell-off.svg"
+ },
+ {
+  "id": 57,
+  "icon": "bx-bell-plus.svg"
+ },
+ {
+  "id": 58,
+  "icon": "bx-bell.svg"
+ },
+ {
+  "id": 59,
+  "icon": "bx-bible.svg"
+ },
+ {
+  "id": 60,
+  "icon": "bx-bitcoin.svg"
+ },
+ {
+  "id": 61,
+  "icon": "bx-blanket.svg"
+ },
+ {
+  "id": 62,
+  "icon": "bx-block.svg"
+ },
+ {
+  "id": 63,
+  "icon": "bx-bluetooth.svg"
+ },
+ {
+  "id": 64,
+  "icon": "bx-body.svg"
+ },
+ {
+  "id": 65,
+  "icon": "bx-bold.svg"
+ },
+ {
+  "id": 66,
+  "icon": "bx-bolt-circle.svg"
+ },
+ {
+  "id": 67,
+  "icon": "bx-bomb.svg"
+ },
+ {
+  "id": 68,
+  "icon": "bx-bone.svg"
+ },
+ {
+  "id": 69,
+  "icon": "bx-bong.svg"
+ },
+ {
+  "id": 70,
+  "icon": "bx-book-add.svg"
+ },
+ {
+  "id": 71,
+  "icon": "bx-book-alt.svg"
+ },
+ {
+  "id": 72,
+  "icon": "bx-book-bookmark.svg"
+ },
+ {
+  "id": 73,
+  "icon": "bx-book-content.svg"
+ },
+ {
+  "id": 74,
+  "icon": "bx-book-heart.svg"
+ },
+ {
+  "id": 75,
+  "icon": "bx-book-open.svg"
+ },
+ {
+  "id": 76,
+  "icon": "bx-book-reader.svg"
+ },
+ {
+  "id": 77,
+  "icon": "bx-book.svg"
+ },
+ {
+  "id": 78,
+  "icon": "bx-bookmark-alt-minus.svg"
+ },
+ {
+  "id": 79,
+  "icon": "bx-bookmark-alt-plus.svg"
+ },
+ {
+  "id": 80,
+  "icon": "bx-bookmark-alt.svg"
+ },
+ {
+  "id": 81,
+  "icon": "bx-bookmark-heart.svg"
+ },
+ {
+  "id": 82,
+  "icon": "bx-bookmark-minus.svg"
+ },
+ {
+  "id": 83,
+  "icon": "bx-bookmark-plus.svg"
+ },
+ {
+  "id": 84,
+  "icon": "bx-bookmark.svg"
+ },
+ {
+  "id": 85,
+  "icon": "bx-bookmarks.svg"
+ },
+ {
+  "id": 86,
+  "icon": "bx-border-all.svg"
+ },
+ {
+  "id": 87,
+  "icon": "bx-border-bottom.svg"
+ },
+ {
+  "id": 88,
+  "icon": "bx-border-inner.svg"
+ },
+ {
+  "id": 89,
+  "icon": "bx-border-left.svg"
+ },
+ {
+  "id": 90,
+  "icon": "bx-border-none.svg"
+ },
+ {
+  "id": 91,
+  "icon": "bx-border-outer.svg"
+ },
+ {
+  "id": 92,
+  "icon": "bx-border-radius.svg"
+ },
+ {
+  "id": 93,
+  "icon": "bx-border-right.svg"
+ },
+ {
+  "id": 94,
+  "icon": "bx-border-top.svg"
+ },
+ {
+  "id": 95,
+  "icon": "bx-bot.svg"
+ },
+ {
+  "id": 96,
+  "icon": "bx-bowl-hot.svg"
+ },
+ {
+  "id": 97,
+  "icon": "bx-bowl-rice.svg"
+ },
+ {
+  "id": 98,
+  "icon": "bx-bowling-ball.svg"
+ },
+ {
+  "id": 99,
+  "icon": "bx-box.svg"
+ },
+ {
+  "id": 100,
+  "icon": "bx-bracket.svg"
+ },
+ {
+  "id": 101,
+  "icon": "bx-braille.svg"
+ },
+ {
+  "id": 102,
+  "icon": "bx-brain.svg"
+ },
+ {
+  "id": 103,
+  "icon": "bx-briefcase-alt-2.svg"
+ },
+ {
+  "id": 104,
+  "icon": "bx-briefcase-alt.svg"
+ },
+ {
+  "id": 105,
+  "icon": "bx-briefcase.svg"
+ },
+ {
+  "id": 106,
+  "icon": "bx-brightness-half.svg"
+ },
+ {
+  "id": 107,
+  "icon": "bx-brightness.svg"
+ },
+ {
+  "id": 108,
+  "icon": "bx-broadcast.svg"
+ },
+ {
+  "id": 109,
+  "icon": "bx-brush-alt.svg"
+ },
+ {
+  "id": 110,
+  "icon": "bx-brush.svg"
+ },
+ {
+  "id": 111,
+  "icon": "bx-bug-alt.svg"
+ },
+ {
+  "id": 112,
+  "icon": "bx-bug.svg"
+ },
+ {
+  "id": 113,
+  "icon": "bx-building-house.svg"
+ },
+ {
+  "id": 114,
+  "icon": "bx-building.svg"
+ },
+ {
+  "id": 115,
+  "icon": "bx-buildings.svg"
+ },
+ {
+  "id": 116,
+  "icon": "bx-bulb.svg"
+ },
+ {
+  "id": 117,
+  "icon": "bx-bullseye.svg"
+ },
+ {
+  "id": 118,
+  "icon": "bx-buoy.svg"
+ },
+ {
+  "id": 119,
+  "icon": "bx-bus-school.svg"
+ },
+ {
+  "id": 120,
+  "icon": "bx-bus.svg"
+ },
+ {
+  "id": 121,
+  "icon": "bx-cabinet.svg"
+ },
+ {
+  "id": 122,
+  "icon": "bx-cable-car.svg"
+ },
+ {
+  "id": 123,
+  "icon": "bx-cake.svg"
+ },
+ {
+  "id": 124,
+  "icon": "bx-calculator.svg"
+ },
+ {
+  "id": 125,
+  "icon": "bx-calendar-alt.svg"
+ },
+ {
+  "id": 126,
+  "icon": "bx-calendar-check.svg"
+ },
+ {
+  "id": 127,
+  "icon": "bx-calendar-edit.svg"
+ },
+ {
+  "id": 128,
+  "icon": "bx-calendar-event.svg"
+ },
+ {
+  "id": 129,
+  "icon": "bx-calendar-exclamation.svg"
+ },
+ {
+  "id": 130,
+  "icon": "bx-calendar-heart.svg"
+ },
+ {
+  "id": 131,
+  "icon": "bx-calendar-minus.svg"
+ },
+ {
+  "id": 132,
+  "icon": "bx-calendar-plus.svg"
+ },
+ {
+  "id": 133,
+  "icon": "bx-calendar-star.svg"
+ },
+ {
+  "id": 134,
+  "icon": "bx-calendar-week.svg"
+ },
+ {
+  "id": 135,
+  "icon": "bx-calendar-x.svg"
+ },
+ {
+  "id": 136,
+  "icon": "bx-calendar.svg"
+ },
+ {
+  "id": 137,
+  "icon": "bx-camera-home.svg"
+ },
+ {
+  "id": 138,
+  "icon": "bx-camera-movie.svg"
+ },
+ {
+  "id": 139,
+  "icon": "bx-camera-off.svg"
+ },
+ {
+  "id": 140,
+  "icon": "bx-camera.svg"
+ },
+ {
+  "id": 141,
+  "icon": "bx-candles.svg"
+ },
+ {
+  "id": 142,
+  "icon": "bx-capsule.svg"
+ },
+ {
+  "id": 143,
+  "icon": "bx-captions.svg"
+ },
+ {
+  "id": 144,
+  "icon": "bx-car.svg"
+ },
+ {
+  "id": 145,
+  "icon": "bx-card.svg"
+ },
+ {
+  "id": 146,
+  "icon": "bx-caret-down-circle.svg"
+ },
+ {
+  "id": 147,
+  "icon": "bx-caret-down-square.svg"
+ },
+ {
+  "id": 148,
+  "icon": "bx-caret-down.svg"
+ },
+ {
+  "id": 149,
+  "icon": "bx-caret-left-circle.svg"
+ },
+ {
+  "id": 150,
+  "icon": "bx-caret-left-square.svg"
+ },
+ {
+  "id": 151,
+  "icon": "bx-caret-left.svg"
+ },
+ {
+  "id": 152,
+  "icon": "bx-caret-right-circle.svg"
+ },
+ {
+  "id": 153,
+  "icon": "bx-caret-right-square.svg"
+ },
+ {
+  "id": 154,
+  "icon": "bx-caret-right.svg"
+ },
+ {
+  "id": 155,
+  "icon": "bx-caret-up-circle.svg"
+ },
+ {
+  "id": 156,
+  "icon": "bx-caret-up-square.svg"
+ },
+ {
+  "id": 157,
+  "icon": "bx-caret-up.svg"
+ },
+ {
+  "id": 158,
+  "icon": "bx-carousel.svg"
+ },
+ {
+  "id": 159,
+  "icon": "bx-cart-add.svg"
+ },
+ {
+  "id": 160,
+  "icon": "bx-cart-alt.svg"
+ },
+ {
+  "id": 161,
+  "icon": "bx-cart-download.svg"
+ },
+ {
+  "id": 162,
+  "icon": "bx-cart.svg"
+ },
+ {
+  "id": 163,
+  "icon": "bx-cast.svg"
+ },
+ {
+  "id": 164,
+  "icon": "bx-category-alt.svg"
+ },
+ {
+  "id": 165,
+  "icon": "bx-category.svg"
+ },
+ {
+  "id": 166,
+  "icon": "bx-cctv.svg"
+ },
+ {
+  "id": 167,
+  "icon": "bx-certification.svg"
+ },
+ {
+  "id": 168,
+  "icon": "bx-chair.svg"
+ },
+ {
+  "id": 169,
+  "icon": "bx-chalkboard.svg"
+ },
+ {
+  "id": 170,
+  "icon": "bx-chart.svg"
+ },
+ {
+  "id": 171,
+  "icon": "bx-chat.svg"
+ },
+ {
+  "id": 172,
+  "icon": "bx-check-circle.svg"
+ },
+ {
+  "id": 173,
+  "icon": "bx-check-double.svg"
+ },
+ {
+  "id": 174,
+  "icon": "bx-check-shield.svg"
+ },
+ {
+  "id": 175,
+  "icon": "bx-check-square.svg"
+ },
+ {
+  "id": 176,
+  "icon": "bx-check.svg"
+ },
+ {
+  "id": 177,
+  "icon": "bx-checkbox-checked.svg"
+ },
+ {
+  "id": 178,
+  "icon": "bx-checkbox-minus.svg"
+ },
+ {
+  "id": 179,
+  "icon": "bx-checkbox-square.svg"
+ },
+ {
+  "id": 180,
+  "icon": "bx-checkbox.svg"
+ },
+ {
+  "id": 181,
+  "icon": "bx-cheese.svg"
+ },
+ {
+  "id": 182,
+  "icon": "bx-chevron-down-circle.svg"
+ },
+ {
+  "id": 183,
+  "icon": "bx-chevron-down-square.svg"
+ },
+ {
+  "id": 184,
+  "icon": "bx-chevron-down.svg"
+ },
+ {
+  "id": 185,
+  "icon": "bx-chevron-left-circle.svg"
+ },
+ {
+  "id": 186,
+  "icon": "bx-chevron-left-square.svg"
+ },
+ {
+  "id": 187,
+  "icon": "bx-chevron-left.svg"
+ },
+ {
+  "id": 188,
+  "icon": "bx-chevron-right-circle.svg"
+ },
+ {
+  "id": 189,
+  "icon": "bx-chevron-right-square.svg"
+ },
+ {
+  "id": 190,
+  "icon": "bx-chevron-right.svg"
+ },
+ {
+  "id": 191,
+  "icon": "bx-chevron-up-circle.svg"
+ },
+ {
+  "id": 192,
+  "icon": "bx-chevron-up-square.svg"
+ },
+ {
+  "id": 193,
+  "icon": "bx-chevron-up.svg"
+ },
+ {
+  "id": 194,
+  "icon": "bx-chevrons-down.svg"
+ },
+ {
+  "id": 195,
+  "icon": "bx-chevrons-left.svg"
+ },
+ {
+  "id": 196,
+  "icon": "bx-chevrons-right.svg"
+ },
+ {
+  "id": 197,
+  "icon": "bx-chevrons-up.svg"
+ },
+ {
+  "id": 198,
+  "icon": "bx-child.svg"
+ },
+ {
+  "id": 199,
+  "icon": "bx-chip.svg"
+ },
+ {
+  "id": 200,
+  "icon": "bx-church.svg"
+ },
+ {
+  "id": 201,
+  "icon": "bx-circle-half.svg"
+ },
+ {
+  "id": 202,
+  "icon": "bx-circle-quarter.svg"
+ },
+ {
+  "id": 203,
+  "icon": "bx-circle-three-quarter.svg"
+ },
+ {
+  "id": 204,
+  "icon": "bx-circle.svg"
+ },
+ {
+  "id": 205,
+  "icon": "bx-clinic.svg"
+ },
+ {
+  "id": 206,
+  "icon": "bx-clipboard.svg"
+ },
+ {
+  "id": 207,
+  "icon": "bx-closet.svg"
+ },
+ {
+  "id": 208,
+  "icon": "bx-cloud-download.svg"
+ },
+ {
+  "id": 209,
+  "icon": "bx-cloud-drizzle.svg"
+ },
+ {
+  "id": 210,
+  "icon": "bx-cloud-light-rain.svg"
+ },
+ {
+  "id": 211,
+  "icon": "bx-cloud-lightning.svg"
+ },
+ {
+  "id": 212,
+  "icon": "bx-cloud-rain.svg"
+ },
+ {
+  "id": 213,
+  "icon": "bx-cloud-snow.svg"
+ },
+ {
+  "id": 214,
+  "icon": "bx-cloud-upload.svg"
+ },
+ {
+  "id": 215,
+  "icon": "bx-cloud.svg"
+ },
+ {
+  "id": 216,
+  "icon": "bx-code-alt.svg"
+ },
+ {
+  "id": 217,
+  "icon": "bx-code-block.svg"
+ },
+ {
+  "id": 218,
+  "icon": "bx-code-curly.svg"
+ },
+ {
+  "id": 219,
+  "icon": "bx-code.svg"
+ },
+ {
+  "id": 220,
+  "icon": "bx-coffee-togo.svg"
+ },
+ {
+  "id": 221,
+  "icon": "bx-coffee.svg"
+ },
+ {
+  "id": 222,
+  "icon": "bx-cog.svg"
+ },
+ {
+  "id": 223,
+  "icon": "bx-coin-stack.svg"
+ },
+ {
+  "id": 224,
+  "icon": "bx-coin.svg"
+ },
+ {
+  "id": 225,
+  "icon": "bx-collapse-alt.svg"
+ },
+ {
+  "id": 226,
+  "icon": "bx-collapse-horizontal.svg"
+ },
+ {
+  "id": 227,
+  "icon": "bx-collapse-vertical.svg"
+ },
+ {
+  "id": 228,
+  "icon": "bx-collapse.svg"
+ },
+ {
+  "id": 229,
+  "icon": "bx-collection.svg"
+ },
+ {
+  "id": 230,
+  "icon": "bx-color-fill.svg"
+ },
+ {
+  "id": 231,
+  "icon": "bx-color.svg"
+ },
+ {
+  "id": 232,
+  "icon": "bx-columns.svg"
+ },
+ {
+  "id": 233,
+  "icon": "bx-command.svg"
+ },
+ {
+  "id": 234,
+  "icon": "bx-comment-add.svg"
+ },
+ {
+  "id": 235,
+  "icon": "bx-comment-check.svg"
+ },
+ {
+  "id": 236,
+  "icon": "bx-comment-detail.svg"
+ },
+ {
+  "id": 237,
+  "icon": "bx-comment-dots.svg"
+ },
+ {
+  "id": 238,
+  "icon": "bx-comment-edit.svg"
+ },
+ {
+  "id": 239,
+  "icon": "bx-comment-error.svg"
+ },
+ {
+  "id": 240,
+  "icon": "bx-comment-minus.svg"
+ },
+ {
+  "id": 241,
+  "icon": "bx-comment-x.svg"
+ },
+ {
+  "id": 242,
+  "icon": "bx-comment.svg"
+ },
+ {
+  "id": 243,
+  "icon": "bx-compass.svg"
+ },
+ {
+  "id": 244,
+  "icon": "bx-confused.svg"
+ },
+ {
+  "id": 245,
+  "icon": "bx-conversation.svg"
+ },
+ {
+  "id": 246,
+  "icon": "bx-cookie.svg"
+ },
+ {
+  "id": 247,
+  "icon": "bx-cool.svg"
+ },
+ {
+  "id": 248,
+  "icon": "bx-copy-alt.svg"
+ },
+ {
+  "id": 249,
+  "icon": "bx-copy.svg"
+ },
+ {
+  "id": 250,
+  "icon": "bx-copyright.svg"
+ },
+ {
+  "id": 251,
+  "icon": "bx-credit-card-alt.svg"
+ },
+ {
+  "id": 252,
+  "icon": "bx-credit-card-front.svg"
+ },
+ {
+  "id": 253,
+  "icon": "bx-credit-card.svg"
+ },
+ {
+  "id": 254,
+  "icon": "bx-cricket-ball.svg"
+ },
+ {
+  "id": 255,
+  "icon": "bx-crop.svg"
+ },
+ {
+  "id": 256,
+  "icon": "bx-cross.svg"
+ },
+ {
+  "id": 257,
+  "icon": "bx-crosshair.svg"
+ },
+ {
+  "id": 258,
+  "icon": "bx-crown.svg"
+ },
+ {
+  "id": 259,
+  "icon": "bx-cube-alt.svg"
+ },
+ {
+  "id": 260,
+  "icon": "bx-cube.svg"
+ },
+ {
+  "id": 261,
+  "icon": "bx-cuboid.svg"
+ },
+ {
+  "id": 262,
+  "icon": "bx-current-location.svg"
+ },
+ {
+  "id": 263,
+  "icon": "bx-customize.svg"
+ },
+ {
+  "id": 264,
+  "icon": "bx-cut.svg"
+ },
+ {
+  "id": 265,
+  "icon": "bx-cycling.svg"
+ },
+ {
+  "id": 266,
+  "icon": "bx-cylinder.svg"
+ },
+ {
+  "id": 267,
+  "icon": "bx-data.svg"
+ },
+ {
+  "id": 268,
+  "icon": "bx-desktop.svg"
+ },
+ {
+  "id": 269,
+  "icon": "bx-detail.svg"
+ },
+ {
+  "id": 270,
+  "icon": "bx-devices.svg"
+ },
+ {
+  "id": 271,
+  "icon": "bx-dialpad-alt.svg"
+ },
+ {
+  "id": 272,
+  "icon": "bx-dialpad.svg"
+ },
+ {
+  "id": 273,
+  "icon": "bx-diamond.svg"
+ },
+ {
+  "id": 274,
+  "icon": "bx-dice-1.svg"
+ },
+ {
+  "id": 275,
+  "icon": "bx-dice-2.svg"
+ },
+ {
+  "id": 276,
+  "icon": "bx-dice-3.svg"
+ },
+ {
+  "id": 277,
+  "icon": "bx-dice-4.svg"
+ },
+ {
+  "id": 278,
+  "icon": "bx-dice-5.svg"
+ },
+ {
+  "id": 279,
+  "icon": "bx-dice-6.svg"
+ },
+ {
+  "id": 280,
+  "icon": "bx-directions.svg"
+ },
+ {
+  "id": 281,
+  "icon": "bx-disc.svg"
+ },
+ {
+  "id": 282,
+  "icon": "bx-dish.svg"
+ },
+ {
+  "id": 283,
+  "icon": "bx-dislike.svg"
+ },
+ {
+  "id": 284,
+  "icon": "bx-dizzy.svg"
+ },
+ {
+  "id": 285,
+  "icon": "bx-dna.svg"
+ },
+ {
+  "id": 286,
+  "icon": "bx-dock-bottom.svg"
+ },
+ {
+  "id": 287,
+  "icon": "bx-dock-left.svg"
+ },
+ {
+  "id": 288,
+  "icon": "bx-dock-right.svg"
+ },
+ {
+  "id": 289,
+  "icon": "bx-dock-top.svg"
+ },
+ {
+  "id": 290,
+  "icon": "bx-dollar-circle.svg"
+ },
+ {
+  "id": 291,
+  "icon": "bx-dollar.svg"
+ },
+ {
+  "id": 292,
+  "icon": "bx-donate-blood.svg"
+ },
+ {
+  "id": 293,
+  "icon": "bx-donate-heart.svg"
+ },
+ {
+  "id": 294,
+  "icon": "bx-door-open.svg"
+ },
+ {
+  "id": 295,
+  "icon": "bx-dots-horizontal-rounded.svg"
+ },
+ {
+  "id": 296,
+  "icon": "bx-dots-horizontal.svg"
+ },
+ {
+  "id": 297,
+  "icon": "bx-dots-vertical-rounded.svg"
+ },
+ {
+  "id": 298,
+  "icon": "bx-dots-vertical.svg"
+ },
+ {
+  "id": 299,
+  "icon": "bx-doughnut-chart.svg"
+ },
+ {
+  "id": 300,
+  "icon": "bx-down-arrow-alt.svg"
+ },
+ {
+  "id": 301,
+  "icon": "bx-down-arrow-circle.svg"
+ },
+ {
+  "id": 302,
+  "icon": "bx-down-arrow.svg"
+ },
+ {
+  "id": 303,
+  "icon": "bx-download.svg"
+ },
+ {
+  "id": 304,
+  "icon": "bx-downvote.svg"
+ },
+ {
+  "id": 305,
+  "icon": "bx-drink.svg"
+ },
+ {
+  "id": 306,
+  "icon": "bx-droplet.svg"
+ },
+ {
+  "id": 307,
+  "icon": "bx-dumbbell.svg"
+ },
+ {
+  "id": 308,
+  "icon": "bx-duplicate.svg"
+ },
+ {
+  "id": 309,
+  "icon": "bx-edit-alt.svg"
+ },
+ {
+  "id": 310,
+  "icon": "bx-edit.svg"
+ },
+ {
+  "id": 311,
+  "icon": "bx-envelope-open.svg"
+ },
+ {
+  "id": 312,
+  "icon": "bx-envelope.svg"
+ },
+ {
+  "id": 313,
+  "icon": "bx-equalizer.svg"
+ },
+ {
+  "id": 314,
+  "icon": "bx-eraser.svg"
+ },
+ {
+  "id": 315,
+  "icon": "bx-error-alt.svg"
+ },
+ {
+  "id": 316,
+  "icon": "bx-error-circle.svg"
+ },
+ {
+  "id": 317,
+  "icon": "bx-error.svg"
+ },
+ {
+  "id": 318,
+  "icon": "bx-euro.svg"
+ },
+ {
+  "id": 319,
+  "icon": "bx-exclude.svg"
+ },
+ {
+  "id": 320,
+  "icon": "bx-exit-fullscreen.svg"
+ },
+ {
+  "id": 321,
+  "icon": "bx-exit.svg"
+ },
+ {
+  "id": 322,
+  "icon": "bx-expand-alt.svg"
+ },
+ {
+  "id": 323,
+  "icon": "bx-expand-horizontal.svg"
+ },
+ {
+  "id": 324,
+  "icon": "bx-expand-vertical.svg"
+ },
+ {
+  "id": 325,
+  "icon": "bx-expand.svg"
+ },
+ {
+  "id": 326,
+  "icon": "bx-export.svg"
+ },
+ {
+  "id": 327,
+  "icon": "bx-extension.svg"
+ },
+ {
+  "id": 328,
+  "icon": "bx-face.svg"
+ },
+ {
+  "id": 329,
+  "icon": "bx-fast-forward-circle.svg"
+ },
+ {
+  "id": 330,
+  "icon": "bx-fast-forward.svg"
+ },
+ {
+  "id": 331,
+  "icon": "bx-female-sign.svg"
+ },
+ {
+  "id": 332,
+  "icon": "bx-female.svg"
+ },
+ {
+  "id": 333,
+  "icon": "bx-file-blank.svg"
+ },
+ {
+  "id": 334,
+  "icon": "bx-file-find.svg"
+ },
+ {
+  "id": 335,
+  "icon": "bx-file.svg"
+ },
+ {
+  "id": 336,
+  "icon": "bx-film.svg"
+ },
+ {
+  "id": 337,
+  "icon": "bx-filter-alt.svg"
+ },
+ {
+  "id": 338,
+  "icon": "bx-filter.svg"
+ },
+ {
+  "id": 339,
+  "icon": "bx-fingerprint.svg"
+ },
+ {
+  "id": 340,
+  "icon": "bx-first-aid.svg"
+ },
+ {
+  "id": 341,
+  "icon": "bx-first-page.svg"
+ },
+ {
+  "id": 342,
+  "icon": "bx-flag.svg"
+ },
+ {
+  "id": 343,
+  "icon": "bx-folder-minus.svg"
+ },
+ {
+  "id": 344,
+  "icon": "bx-folder-open.svg"
+ },
+ {
+  "id": 345,
+  "icon": "bx-folder-plus.svg"
+ },
+ {
+  "id": 346,
+  "icon": "bx-folder.svg"
+ },
+ {
+  "id": 347,
+  "icon": "bx-font-color.svg"
+ },
+ {
+  "id": 348,
+  "icon": "bx-font-family.svg"
+ },
+ {
+  "id": 349,
+  "icon": "bx-font-size.svg"
+ },
+ {
+  "id": 350,
+  "icon": "bx-font.svg"
+ },
+ {
+  "id": 351,
+  "icon": "bx-food-menu.svg"
+ },
+ {
+  "id": 352,
+  "icon": "bx-food-tag.svg"
+ },
+ {
+  "id": 353,
+  "icon": "bx-football.svg"
+ },
+ {
+  "id": 354,
+  "icon": "bx-fork.svg"
+ },
+ {
+  "id": 355,
+  "icon": "bx-fridge.svg"
+ },
+ {
+  "id": 356,
+  "icon": "bx-fullscreen.svg"
+ },
+ {
+  "id": 357,
+  "icon": "bx-game.svg"
+ },
+ {
+  "id": 358,
+  "icon": "bx-gas-pump.svg"
+ },
+ {
+  "id": 359,
+  "icon": "bx-ghost.svg"
+ },
+ {
+  "id": 360,
+  "icon": "bx-gift.svg"
+ },
+ {
+  "id": 361,
+  "icon": "bx-git-branch.svg"
+ },
+ {
+  "id": 362,
+  "icon": "bx-git-commit.svg"
+ },
+ {
+  "id": 363,
+  "icon": "bx-git-compare.svg"
+ },
+ {
+  "id": 364,
+  "icon": "bx-git-merge.svg"
+ },
+ {
+  "id": 365,
+  "icon": "bx-git-pull-request.svg"
+ },
+ {
+  "id": 366,
+  "icon": "bx-git-repo-forked.svg"
+ },
+ {
+  "id": 367,
+  "icon": "bx-glasses-alt.svg"
+ },
+ {
+  "id": 368,
+  "icon": "bx-glasses.svg"
+ },
+ {
+  "id": 369,
+  "icon": "bx-globe-alt.svg"
+ },
+ {
+  "id": 370,
+  "icon": "bx-globe.svg"
+ },
+ {
+  "id": 371,
+  "icon": "bx-grid-alt.svg"
+ },
+ {
+  "id": 372,
+  "icon": "bx-grid-horizontal.svg"
+ },
+ {
+  "id": 373,
+  "icon": "bx-grid-small.svg"
+ },
+ {
+  "id": 374,
+  "icon": "bx-grid-vertical.svg"
+ },
+ {
+  "id": 375,
+  "icon": "bx-grid.svg"
+ },
+ {
+  "id": 376,
+  "icon": "bx-group.svg"
+ },
+ {
+  "id": 377,
+  "icon": "bx-handicap.svg"
+ },
+ {
+  "id": 378,
+  "icon": "bx-happy-alt.svg"
+ },
+ {
+  "id": 379,
+  "icon": "bx-happy-beaming.svg"
+ },
+ {
+  "id": 380,
+  "icon": "bx-happy-heart-eyes.svg"
+ },
+ {
+  "id": 381,
+  "icon": "bx-happy.svg"
+ },
+ {
+  "id": 382,
+  "icon": "bx-hard-hat.svg"
+ },
+ {
+  "id": 383,
+  "icon": "bx-hash.svg"
+ },
+ {
+  "id": 384,
+  "icon": "bx-hdd.svg"
+ },
+ {
+  "id": 385,
+  "icon": "bx-heading.svg"
+ },
+ {
+  "id": 386,
+  "icon": "bx-headphone.svg"
+ },
+ {
+  "id": 387,
+  "icon": "bx-health.svg"
+ },
+ {
+  "id": 388,
+  "icon": "bx-heart-circle.svg"
+ },
+ {
+  "id": 389,
+  "icon": "bx-heart-square.svg"
+ },
+ {
+  "id": 390,
+  "icon": "bx-heart.svg"
+ },
+ {
+  "id": 391,
+  "icon": "bx-help-circle.svg"
+ },
+ {
+  "id": 392,
+  "icon": "bx-hide.svg"
+ },
+ {
+  "id": 393,
+  "icon": "bx-highlight.svg"
+ },
+ {
+  "id": 394,
+  "icon": "bx-history.svg"
+ },
+ {
+  "id": 395,
+  "icon": "bx-hive.svg"
+ },
+ {
+  "id": 396,
+  "icon": "bx-home-alt-2.svg"
+ },
+ {
+  "id": 397,
+  "icon": "bx-home-alt.svg"
+ },
+ {
+  "id": 398,
+  "icon": "bx-home-circle.svg"
+ },
+ {
+  "id": 399,
+  "icon": "bx-home-heart.svg"
+ },
+ {
+  "id": 400,
+  "icon": "bx-home-smile.svg"
+ },
+ {
+  "id": 401,
+  "icon": "bx-home.svg"
+ },
+ {
+  "id": 402,
+  "icon": "bx-horizontal-center.svg"
+ },
+ {
+  "id": 403,
+  "icon": "bx-horizontal-left.svg"
+ },
+ {
+  "id": 404,
+  "icon": "bx-horizontal-right.svg"
+ },
+ {
+  "id": 405,
+  "icon": "bx-hotel.svg"
+ },
+ {
+  "id": 406,
+  "icon": "bx-hourglass.svg"
+ },
+ {
+  "id": 407,
+  "icon": "bx-id-card.svg"
+ },
+ {
+  "id": 408,
+  "icon": "bx-image-add.svg"
+ },
+ {
+  "id": 409,
+  "icon": "bx-image-alt.svg"
+ },
+ {
+  "id": 410,
+  "icon": "bx-image.svg"
+ },
+ {
+  "id": 411,
+  "icon": "bx-images.svg"
+ },
+ {
+  "id": 412,
+  "icon": "bx-import.svg"
+ },
+ {
+  "id": 413,
+  "icon": "bx-infinite.svg"
+ },
+ {
+  "id": 414,
+  "icon": "bx-info-circle.svg"
+ },
+ {
+  "id": 415,
+  "icon": "bx-info-square.svg"
+ },
+ {
+  "id": 416,
+  "icon": "bx-injection.svg"
+ },
+ {
+  "id": 417,
+  "icon": "bx-intersect.svg"
+ },
+ {
+  "id": 418,
+  "icon": "bx-italic.svg"
+ },
+ {
+  "id": 419,
+  "icon": "bx-joystick-alt.svg"
+ },
+ {
+  "id": 420,
+  "icon": "bx-joystick-button.svg"
+ },
+ {
+  "id": 421,
+  "icon": "bx-joystick.svg"
+ },
+ {
+  "id": 422,
+  "icon": "bx-key.svg"
+ },
+ {
+  "id": 423,
+  "icon": "bx-knife.svg"
+ },
+ {
+  "id": 424,
+  "icon": "bx-label.svg"
+ },
+ {
+  "id": 425,
+  "icon": "bx-landscape.svg"
+ },
+ {
+  "id": 426,
+  "icon": "bx-laptop.svg"
+ },
+ {
+  "id": 427,
+  "icon": "bx-last-page.svg"
+ },
+ {
+  "id": 428,
+  "icon": "bx-laugh.svg"
+ },
+ {
+  "id": 429,
+  "icon": "bx-layer-minus.svg"
+ },
+ {
+  "id": 430,
+  "icon": "bx-layer-plus.svg"
+ },
+ {
+  "id": 431,
+  "icon": "bx-layer.svg"
+ },
+ {
+  "id": 432,
+  "icon": "bx-layout.svg"
+ },
+ {
+  "id": 433,
+  "icon": "bx-leaf.svg"
+ },
+ {
+  "id": 434,
+  "icon": "bx-left-arrow-alt.svg"
+ },
+ {
+  "id": 435,
+  "icon": "bx-left-arrow-circle.svg"
+ },
+ {
+  "id": 436,
+  "icon": "bx-left-arrow.svg"
+ },
+ {
+  "id": 437,
+  "icon": "bx-left-down-arrow-circle.svg"
+ },
+ {
+  "id": 438,
+  "icon": "bx-left-indent.svg"
+ },
+ {
+  "id": 439,
+  "icon": "bx-left-top-arrow-circle.svg"
+ },
+ {
+  "id": 440,
+  "icon": "bx-lemon.svg"
+ },
+ {
+  "id": 441,
+  "icon": "bx-library.svg"
+ },
+ {
+  "id": 442,
+  "icon": "bx-like.svg"
+ },
+ {
+  "id": 443,
+  "icon": "bx-line-chart-down.svg"
+ },
+ {
+  "id": 444,
+  "icon": "bx-line-chart.svg"
+ },
+ {
+  "id": 445,
+  "icon": "bx-link-alt.svg"
+ },
+ {
+  "id": 446,
+  "icon": "bx-link-external.svg"
+ },
+ {
+  "id": 447,
+  "icon": "bx-link.svg"
+ },
+ {
+  "id": 448,
+  "icon": "bx-lira.svg"
+ },
+ {
+  "id": 449,
+  "icon": "bx-list-check.svg"
+ },
+ {
+  "id": 450,
+  "icon": "bx-list-minus.svg"
+ },
+ {
+  "id": 451,
+  "icon": "bx-list-ol.svg"
+ },
+ {
+  "id": 452,
+  "icon": "bx-list-plus.svg"
+ },
+ {
+  "id": 453,
+  "icon": "bx-list-ul.svg"
+ },
+ {
+  "id": 454,
+  "icon": "bx-loader-alt.svg"
+ },
+ {
+  "id": 455,
+  "icon": "bx-loader-circle.svg"
+ },
+ {
+  "id": 456,
+  "icon": "bx-loader.svg"
+ },
+ {
+  "id": 457,
+  "icon": "bx-location-plus.svg"
+ },
+ {
+  "id": 458,
+  "icon": "bx-lock-alt.svg"
+ },
+ {
+  "id": 459,
+  "icon": "bx-lock-open-alt.svg"
+ },
+ {
+  "id": 460,
+  "icon": "bx-lock-open.svg"
+ },
+ {
+  "id": 461,
+  "icon": "bx-lock.svg"
+ },
+ {
+  "id": 462,
+  "icon": "bx-log-in-circle.svg"
+ },
+ {
+  "id": 463,
+  "icon": "bx-log-in.svg"
+ },
+ {
+  "id": 464,
+  "icon": "bx-log-out-circle.svg"
+ },
+ {
+  "id": 465,
+  "icon": "bx-log-out.svg"
+ },
+ {
+  "id": 466,
+  "icon": "bx-low-vision.svg"
+ },
+ {
+  "id": 467,
+  "icon": "bx-magnet.svg"
+ },
+ {
+  "id": 468,
+  "icon": "bx-mail-send.svg"
+ },
+ {
+  "id": 469,
+  "icon": "bx-male-female.svg"
+ },
+ {
+  "id": 470,
+  "icon": "bx-male-sign.svg"
+ },
+ {
+  "id": 471,
+  "icon": "bx-male.svg"
+ },
+ {
+  "id": 472,
+  "icon": "bx-map-alt.svg"
+ },
+ {
+  "id": 473,
+  "icon": "bx-map-pin.svg"
+ },
+ {
+  "id": 474,
+  "icon": "bx-map.svg"
+ },
+ {
+  "id": 475,
+  "icon": "bx-mask.svg"
+ },
+ {
+  "id": 476,
+  "icon": "bx-math.svg"
+ },
+ {
+  "id": 477,
+  "icon": "bx-medal.svg"
+ },
+ {
+  "id": 478,
+  "icon": "bx-meh-alt.svg"
+ },
+ {
+  "id": 479,
+  "icon": "bx-meh-blank.svg"
+ },
+ {
+  "id": 480,
+  "icon": "bx-meh.svg"
+ },
+ {
+  "id": 481,
+  "icon": "bx-memory-card.svg"
+ },
+ {
+  "id": 482,
+  "icon": "bx-menu-alt-left.svg"
+ },
+ {
+  "id": 483,
+  "icon": "bx-menu-alt-right.svg"
+ },
+ {
+  "id": 484,
+  "icon": "bx-menu.svg"
+ },
+ {
+  "id": 485,
+  "icon": "bx-merge.svg"
+ },
+ {
+  "id": 486,
+  "icon": "bx-message-add.svg"
+ },
+ {
+  "id": 487,
+  "icon": "bx-message-alt-add.svg"
+ },
+ {
+  "id": 488,
+  "icon": "bx-message-alt-check.svg"
+ },
+ {
+  "id": 489,
+  "icon": "bx-message-alt-detail.svg"
+ },
+ {
+  "id": 490,
+  "icon": "bx-message-alt-dots.svg"
+ },
+ {
+  "id": 491,
+  "icon": "bx-message-alt-edit.svg"
+ },
+ {
+  "id": 492,
+  "icon": "bx-message-alt-error.svg"
+ },
+ {
+  "id": 493,
+  "icon": "bx-message-alt-minus.svg"
+ },
+ {
+  "id": 494,
+  "icon": "bx-message-alt-x.svg"
+ },
+ {
+  "id": 495,
+  "icon": "bx-message-alt.svg"
+ },
+ {
+  "id": 496,
+  "icon": "bx-message-check.svg"
+ },
+ {
+  "id": 497,
+  "icon": "bx-message-detail.svg"
+ },
+ {
+  "id": 498,
+  "icon": "bx-message-dots.svg"
+ },
+ {
+  "id": 499,
+  "icon": "bx-message-edit.svg"
+ },
+ {
+  "id": 500,
+  "icon": "bx-message-error.svg"
+ },
+ {
+  "id": 501,
+  "icon": "bx-message-minus.svg"
+ },
+ {
+  "id": 502,
+  "icon": "bx-message-rounded-add.svg"
+ },
+ {
+  "id": 503,
+  "icon": "bx-message-rounded-check.svg"
+ },
+ {
+  "id": 504,
+  "icon": "bx-message-rounded-detail.svg"
+ },
+ {
+  "id": 505,
+  "icon": "bx-message-rounded-dots.svg"
+ },
+ {
+  "id": 506,
+  "icon": "bx-message-rounded-edit.svg"
+ },
+ {
+  "id": 507,
+  "icon": "bx-message-rounded-error.svg"
+ },
+ {
+  "id": 508,
+  "icon": "bx-message-rounded-minus.svg"
+ },
+ {
+  "id": 509,
+  "icon": "bx-message-rounded-x.svg"
+ },
+ {
+  "id": 510,
+  "icon": "bx-message-rounded.svg"
+ },
+ {
+  "id": 511,
+  "icon": "bx-message-square-add.svg"
+ },
+ {
+  "id": 512,
+  "icon": "bx-message-square-check.svg"
+ },
+ {
+  "id": 513,
+  "icon": "bx-message-square-detail.svg"
+ },
+ {
+  "id": 514,
+  "icon": "bx-message-square-dots.svg"
+ },
+ {
+  "id": 515,
+  "icon": "bx-message-square-edit.svg"
+ },
+ {
+  "id": 516,
+  "icon": "bx-message-square-error.svg"
+ },
+ {
+  "id": 517,
+  "icon": "bx-message-square-minus.svg"
+ },
+ {
+  "id": 518,
+  "icon": "bx-message-square-x.svg"
+ },
+ {
+  "id": 519,
+  "icon": "bx-message-square.svg"
+ },
+ {
+  "id": 520,
+  "icon": "bx-message-x.svg"
+ },
+ {
+  "id": 521,
+  "icon": "bx-message.svg"
+ },
+ {
+  "id": 522,
+  "icon": "bx-meteor.svg"
+ },
+ {
+  "id": 523,
+  "icon": "bx-microchip.svg"
+ },
+ {
+  "id": 524,
+  "icon": "bx-microphone-off.svg"
+ },
+ {
+  "id": 525,
+  "icon": "bx-microphone.svg"
+ },
+ {
+  "id": 526,
+  "icon": "bx-minus-back.svg"
+ },
+ {
+  "id": 527,
+  "icon": "bx-minus-circle.svg"
+ },
+ {
+  "id": 528,
+  "icon": "bx-minus-front.svg"
+ },
+ {
+  "id": 529,
+  "icon": "bx-minus.svg"
+ },
+ {
+  "id": 530,
+  "icon": "bx-mobile-alt.svg"
+ },
+ {
+  "id": 531,
+  "icon": "bx-mobile-landscape.svg"
+ },
+ {
+  "id": 532,
+  "icon": "bx-mobile-vibration.svg"
+ },
+ {
+  "id": 533,
+  "icon": "bx-mobile.svg"
+ },
+ {
+  "id": 534,
+  "icon": "bx-money-withdraw.svg"
+ },
+ {
+  "id": 535,
+  "icon": "bx-money.svg"
+ },
+ {
+  "id": 536,
+  "icon": "bx-moon.svg"
+ },
+ {
+  "id": 537,
+  "icon": "bx-mouse-alt.svg"
+ },
+ {
+  "id": 538,
+  "icon": "bx-mouse.svg"
+ },
+ {
+  "id": 539,
+  "icon": "bx-move-horizontal.svg"
+ },
+ {
+  "id": 540,
+  "icon": "bx-move-vertical.svg"
+ },
+ {
+  "id": 541,
+  "icon": "bx-move.svg"
+ },
+ {
+  "id": 542,
+  "icon": "bx-movie-play.svg"
+ },
+ {
+  "id": 543,
+  "icon": "bx-movie.svg"
+ },
+ {
+  "id": 544,
+  "icon": "bx-music.svg"
+ },
+ {
+  "id": 545,
+  "icon": "bx-navigation.svg"
+ },
+ {
+  "id": 546,
+  "icon": "bx-network-chart.svg"
+ },
+ {
+  "id": 547,
+  "icon": "bx-news.svg"
+ },
+ {
+  "id": 548,
+  "icon": "bx-no-entry.svg"
+ },
+ {
+  "id": 549,
+  "icon": "bx-no-signal.svg"
+ },
+ {
+  "id": 550,
+  "icon": "bx-note.svg"
+ },
+ {
+  "id": 551,
+  "icon": "bx-notepad.svg"
+ },
+ {
+  "id": 552,
+  "icon": "bx-notification-off.svg"
+ },
+ {
+  "id": 553,
+  "icon": "bx-notification.svg"
+ },
+ {
+  "id": 554,
+  "icon": "bx-objects-horizontal-center.svg"
+ },
+ {
+  "id": 555,
+  "icon": "bx-objects-horizontal-left.svg"
+ },
+ {
+  "id": 556,
+  "icon": "bx-objects-horizontal-right.svg"
+ },
+ {
+  "id": 557,
+  "icon": "bx-objects-vertical-bottom.svg"
+ },
+ {
+  "id": 558,
+  "icon": "bx-objects-vertical-center.svg"
+ },
+ {
+  "id": 559,
+  "icon": "bx-objects-vertical-top.svg"
+ },
+ {
+  "id": 560,
+  "icon": "bx-outline.svg"
+ },
+ {
+  "id": 561,
+  "icon": "bx-package.svg"
+ },
+ {
+  "id": 562,
+  "icon": "bx-paint-roll.svg"
+ },
+ {
+  "id": 563,
+  "icon": "bx-paint.svg"
+ },
+ {
+  "id": 564,
+  "icon": "bx-palette.svg"
+ },
+ {
+  "id": 565,
+  "icon": "bx-paper-plane.svg"
+ },
+ {
+  "id": 566,
+  "icon": "bx-paperclip.svg"
+ },
+ {
+  "id": 567,
+  "icon": "bx-paragraph.svg"
+ },
+ {
+  "id": 568,
+  "icon": "bx-party.svg"
+ },
+ {
+  "id": 569,
+  "icon": "bx-paste.svg"
+ },
+ {
+  "id": 570,
+  "icon": "bx-pause-circle.svg"
+ },
+ {
+  "id": 571,
+  "icon": "bx-pause.svg"
+ },
+ {
+  "id": 572,
+  "icon": "bx-pen.svg"
+ },
+ {
+  "id": 573,
+  "icon": "bx-pencil.svg"
+ },
+ {
+  "id": 574,
+  "icon": "bx-phone-call.svg"
+ },
+ {
+  "id": 575,
+  "icon": "bx-phone-incoming.svg"
+ },
+ {
+  "id": 576,
+  "icon": "bx-phone-off.svg"
+ },
+ {
+  "id": 577,
+  "icon": "bx-phone-outgoing.svg"
+ },
+ {
+  "id": 578,
+  "icon": "bx-phone.svg"
+ },
+ {
+  "id": 579,
+  "icon": "bx-photo-album.svg"
+ },
+ {
+  "id": 580,
+  "icon": "bx-pie-chart-alt-2.svg"
+ },
+ {
+  "id": 581,
+  "icon": "bx-pie-chart-alt.svg"
+ },
+ {
+  "id": 582,
+  "icon": "bx-pie-chart.svg"
+ },
+ {
+  "id": 583,
+  "icon": "bx-pin.svg"
+ },
+ {
+  "id": 584,
+  "icon": "bx-planet.svg"
+ },
+ {
+  "id": 585,
+  "icon": "bx-play-circle.svg"
+ },
+ {
+  "id": 586,
+  "icon": "bx-play.svg"
+ },
+ {
+  "id": 587,
+  "icon": "bx-plug.svg"
+ },
+ {
+  "id": 588,
+  "icon": "bx-plus-circle.svg"
+ },
+ {
+  "id": 589,
+  "icon": "bx-plus-medical.svg"
+ },
+ {
+  "id": 590,
+  "icon": "bx-plus.svg"
+ },
+ {
+  "id": 591,
+  "icon": "bx-podcast.svg"
+ },
+ {
+  "id": 592,
+  "icon": "bx-pointer.svg"
+ },
+ {
+  "id": 593,
+  "icon": "bx-poll.svg"
+ },
+ {
+  "id": 594,
+  "icon": "bx-polygon.svg"
+ },
+ {
+  "id": 595,
+  "icon": "bx-popsicle.svg"
+ },
+ {
+  "id": 596,
+  "icon": "bx-pound.svg"
+ },
+ {
+  "id": 597,
+  "icon": "bx-power-off.svg"
+ },
+ {
+  "id": 598,
+  "icon": "bx-printer.svg"
+ },
+ {
+  "id": 599,
+  "icon": "bx-pulse.svg"
+ },
+ {
+  "id": 600,
+  "icon": "bx-purchase-tag-alt.svg"
+ },
+ {
+  "id": 601,
+  "icon": "bx-purchase-tag.svg"
+ },
+ {
+  "id": 602,
+  "icon": "bx-pyramid.svg"
+ },
+ {
+  "id": 603,
+  "icon": "bx-qr-scan.svg"
+ },
+ {
+  "id": 604,
+  "icon": "bx-qr.svg"
+ },
+ {
+  "id": 605,
+  "icon": "bx-question-mark.svg"
+ },
+ {
+  "id": 606,
+  "icon": "bx-radar.svg"
+ },
+ {
+  "id": 607,
+  "icon": "bx-radio-circle-marked.svg"
+ },
+ {
+  "id": 608,
+  "icon": "bx-radio-circle.svg"
+ },
+ {
+  "id": 609,
+  "icon": "bx-radio.svg"
+ },
+ {
+  "id": 610,
+  "icon": "bx-receipt.svg"
+ },
+ {
+  "id": 611,
+  "icon": "bx-rectangle.svg"
+ },
+ {
+  "id": 612,
+  "icon": "bx-recycle.svg"
+ },
+ {
+  "id": 613,
+  "icon": "bx-redo.svg"
+ },
+ {
+  "id": 614,
+  "icon": "bx-reflect-horizontal.svg"
+ },
+ {
+  "id": 615,
+  "icon": "bx-reflect-vertical.svg"
+ },
+ {
+  "id": 616,
+  "icon": "bx-refresh.svg"
+ },
+ {
+  "id": 617,
+  "icon": "bx-registered.svg"
+ },
+ {
+  "id": 618,
+  "icon": "bx-rename.svg"
+ },
+ {
+  "id": 619,
+  "icon": "bx-repeat.svg"
+ },
+ {
+  "id": 620,
+  "icon": "bx-reply-all.svg"
+ },
+ {
+  "id": 621,
+  "icon": "bx-reply.svg"
+ },
+ {
+  "id": 622,
+  "icon": "bx-repost.svg"
+ },
+ {
+  "id": 623,
+  "icon": "bx-reset.svg"
+ },
+ {
+  "id": 624,
+  "icon": "bx-restaurant.svg"
+ },
+ {
+  "id": 625,
+  "icon": "bx-revision.svg"
+ },
+ {
+  "id": 626,
+  "icon": "bx-rewind-circle.svg"
+ },
+ {
+  "id": 627,
+  "icon": "bx-rewind.svg"
+ },
+ {
+  "id": 628,
+  "icon": "bx-rfid.svg"
+ },
+ {
+  "id": 629,
+  "icon": "bx-right-arrow-alt.svg"
+ },
+ {
+  "id": 630,
+  "icon": "bx-right-arrow-circle.svg"
+ },
+ {
+  "id": 631,
+  "icon": "bx-right-arrow.svg"
+ },
+ {
+  "id": 632,
+  "icon": "bx-right-down-arrow-circle.svg"
+ },
+ {
+  "id": 633,
+  "icon": "bx-right-indent.svg"
+ },
+ {
+  "id": 634,
+  "icon": "bx-right-top-arrow-circle.svg"
+ },
+ {
+  "id": 635,
+  "icon": "bx-rocket.svg"
+ },
+ {
+  "id": 636,
+  "icon": "bx-rotate-left.svg"
+ },
+ {
+  "id": 637,
+  "icon": "bx-rotate-right.svg"
+ },
+ {
+  "id": 638,
+  "icon": "bx-rss.svg"
+ },
+ {
+  "id": 639,
+  "icon": "bx-ruble.svg"
+ },
+ {
+  "id": 640,
+  "icon": "bx-ruler.svg"
+ },
+ {
+  "id": 641,
+  "icon": "bx-run.svg"
+ },
+ {
+  "id": 642,
+  "icon": "bx-rupee.svg"
+ },
+ {
+  "id": 643,
+  "icon": "bx-sad.svg"
+ },
+ {
+  "id": 644,
+  "icon": "bx-save.svg"
+ },
+ {
+  "id": 645,
+  "icon": "bx-scan.svg"
+ },
+ {
+  "id": 646,
+  "icon": "bx-scatter-chart.svg"
+ },
+ {
+  "id": 647,
+  "icon": "bx-screenshot.svg"
+ },
+ {
+  "id": 648,
+  "icon": "bx-search-alt-2.svg"
+ },
+ {
+  "id": 649,
+  "icon": "bx-search-alt.svg"
+ },
+ {
+  "id": 650,
+  "icon": "bx-search.svg"
+ },
+ {
+  "id": 651,
+  "icon": "bx-select-multiple.svg"
+ },
+ {
+  "id": 652,
+  "icon": "bx-selection.svg"
+ },
+ {
+  "id": 653,
+  "icon": "bx-send.svg"
+ },
+ {
+  "id": 654,
+  "icon": "bx-server.svg"
+ },
+ {
+  "id": 655,
+  "icon": "bx-shape-circle.svg"
+ },
+ {
+  "id": 656,
+  "icon": "bx-shape-polygon.svg"
+ },
+ {
+  "id": 657,
+  "icon": "bx-shape-square.svg"
+ },
+ {
+  "id": 658,
+  "icon": "bx-shape-triangle.svg"
+ },
+ {
+  "id": 659,
+  "icon": "bx-share-alt.svg"
+ },
+ {
+  "id": 660,
+  "icon": "bx-share.svg"
+ },
+ {
+  "id": 661,
+  "icon": "bx-shekel.svg"
+ },
+ {
+  "id": 662,
+  "icon": "bx-shield-alt-2.svg"
+ },
+ {
+  "id": 663,
+  "icon": "bx-shield-alt.svg"
+ },
+ {
+  "id": 664,
+  "icon": "bx-shield-minus.svg"
+ },
+ {
+  "id": 665,
+  "icon": "bx-shield-plus.svg"
+ },
+ {
+  "id": 666,
+  "icon": "bx-shield-quarter.svg"
+ },
+ {
+  "id": 667,
+  "icon": "bx-shield-x.svg"
+ },
+ {
+  "id": 668,
+  "icon": "bx-shield.svg"
+ },
+ {
+  "id": 669,
+  "icon": "bx-shocked.svg"
+ },
+ {
+  "id": 670,
+  "icon": "bx-shopping-bag.svg"
+ },
+ {
+  "id": 671,
+  "icon": "bx-show-alt.svg"
+ },
+ {
+  "id": 672,
+  "icon": "bx-show.svg"
+ },
+ {
+  "id": 673,
+  "icon": "bx-shower.svg"
+ },
+ {
+  "id": 674,
+  "icon": "bx-shuffle.svg"
+ },
+ {
+  "id": 675,
+  "icon": "bx-sidebar.svg"
+ },
+ {
+  "id": 676,
+  "icon": "bx-signal-1.svg"
+ },
+ {
+  "id": 677,
+  "icon": "bx-signal-2.svg"
+ },
+ {
+  "id": 678,
+  "icon": "bx-signal-3.svg"
+ },
+ {
+  "id": 679,
+  "icon": "bx-signal-4.svg"
+ },
+ {
+  "id": 680,
+  "icon": "bx-signal-5.svg"
+ },
+ {
+  "id": 681,
+  "icon": "bx-sitemap.svg"
+ },
+ {
+  "id": 682,
+  "icon": "bx-skip-next-circle.svg"
+ },
+ {
+  "id": 683,
+  "icon": "bx-skip-next.svg"
+ },
+ {
+  "id": 684,
+  "icon": "bx-skip-previous-circle.svg"
+ },
+ {
+  "id": 685,
+  "icon": "bx-skip-previous.svg"
+ },
+ {
+  "id": 686,
+  "icon": "bx-sleepy.svg"
+ },
+ {
+  "id": 687,
+  "icon": "bx-slider-alt.svg"
+ },
+ {
+  "id": 688,
+  "icon": "bx-slider.svg"
+ },
+ {
+  "id": 689,
+  "icon": "bx-slideshow.svg"
+ },
+ {
+  "id": 690,
+  "icon": "bx-smile.svg"
+ },
+ {
+  "id": 691,
+  "icon": "bx-sort-a-z.svg"
+ },
+ {
+  "id": 692,
+  "icon": "bx-sort-alt-2.svg"
+ },
+ {
+  "id": 693,
+  "icon": "bx-sort-down.svg"
+ },
+ {
+  "id": 694,
+  "icon": "bx-sort-up.svg"
+ },
+ {
+  "id": 695,
+  "icon": "bx-sort-z-a.svg"
+ },
+ {
+  "id": 696,
+  "icon": "bx-sort.svg"
+ },
+ {
+  "id": 697,
+  "icon": "bx-spa.svg"
+ },
+ {
+  "id": 698,
+  "icon": "bx-space-bar.svg"
+ },
+ {
+  "id": 699,
+  "icon": "bx-speaker.svg"
+ },
+ {
+  "id": 700,
+  "icon": "bx-spray-can.svg"
+ },
+ {
+  "id": 701,
+  "icon": "bx-spreadsheet.svg"
+ },
+ {
+  "id": 702,
+  "icon": "bx-square-rounded.svg"
+ },
+ {
+  "id": 703,
+  "icon": "bx-square.svg"
+ },
+ {
+  "id": 704,
+  "icon": "bx-star.svg"
+ },
+ {
+  "id": 705,
+  "icon": "bx-station.svg"
+ },
+ {
+  "id": 706,
+  "icon": "bx-stats.svg"
+ },
+ {
+  "id": 707,
+  "icon": "bx-sticker.svg"
+ },
+ {
+  "id": 708,
+  "icon": "bx-stop-circle.svg"
+ },
+ {
+  "id": 709,
+  "icon": "bx-stop.svg"
+ },
+ {
+  "id": 710,
+  "icon": "bx-stopwatch.svg"
+ },
+ {
+  "id": 711,
+  "icon": "bx-store-alt.svg"
+ },
+ {
+  "id": 712,
+  "icon": "bx-store.svg"
+ },
+ {
+  "id": 713,
+  "icon": "bx-street-view.svg"
+ },
+ {
+  "id": 714,
+  "icon": "bx-strikethrough.svg"
+ },
+ {
+  "id": 715,
+  "icon": "bx-subdirectory-left.svg"
+ },
+ {
+  "id": 716,
+  "icon": "bx-subdirectory-right.svg"
+ },
+ {
+  "id": 717,
+  "icon": "bx-sun.svg"
+ },
+ {
+  "id": 718,
+  "icon": "bx-support.svg"
+ },
+ {
+  "id": 719,
+  "icon": "bx-sushi.svg"
+ },
+ {
+  "id": 720,
+  "icon": "bx-swim.svg"
+ },
+ {
+  "id": 721,
+  "icon": "bx-sync.svg"
+ },
+ {
+  "id": 722,
+  "icon": "bx-tab.svg"
+ },
+ {
+  "id": 723,
+  "icon": "bx-table.svg"
+ },
+ {
+  "id": 724,
+  "icon": "bx-tachometer.svg"
+ },
+ {
+  "id": 725,
+  "icon": "bx-tag-alt.svg"
+ },
+ {
+  "id": 726,
+  "icon": "bx-tag.svg"
+ },
+ {
+  "id": 727,
+  "icon": "bx-target-lock.svg"
+ },
+ {
+  "id": 728,
+  "icon": "bx-task-x.svg"
+ },
+ {
+  "id": 729,
+  "icon": "bx-task.svg"
+ },
+ {
+  "id": 730,
+  "icon": "bx-taxi.svg"
+ },
+ {
+  "id": 731,
+  "icon": "bx-tennis-ball.svg"
+ },
+ {
+  "id": 732,
+  "icon": "bx-terminal.svg"
+ },
+ {
+  "id": 733,
+  "icon": "bx-test-tube.svg"
+ },
+ {
+  "id": 734,
+  "icon": "bx-text.svg"
+ },
+ {
+  "id": 735,
+  "icon": "bx-time-five.svg"
+ },
+ {
+  "id": 736,
+  "icon": "bx-time.svg"
+ },
+ {
+  "id": 737,
+  "icon": "bx-timer.svg"
+ },
+ {
+  "id": 738,
+  "icon": "bx-tired.svg"
+ },
+ {
+  "id": 739,
+  "icon": "bx-toggle-left.svg"
+ },
+ {
+  "id": 740,
+  "icon": "bx-toggle-right.svg"
+ },
+ {
+  "id": 741,
+  "icon": "bx-tone.svg"
+ },
+ {
+  "id": 742,
+  "icon": "bx-traffic-cone.svg"
+ },
+ {
+  "id": 743,
+  "icon": "bx-train.svg"
+ },
+ {
+  "id": 744,
+  "icon": "bx-transfer-alt.svg"
+ },
+ {
+  "id": 745,
+  "icon": "bx-transfer.svg"
+ },
+ {
+  "id": 746,
+  "icon": "bx-trash-alt.svg"
+ },
+ {
+  "id": 747,
+  "icon": "bx-trash.svg"
+ },
+ {
+  "id": 748,
+  "icon": "bx-trending-down.svg"
+ },
+ {
+  "id": 749,
+  "icon": "bx-trending-up.svg"
+ },
+ {
+  "id": 750,
+  "icon": "bx-trim.svg"
+ },
+ {
+  "id": 751,
+  "icon": "bx-trip.svg"
+ },
+ {
+  "id": 752,
+  "icon": "bx-trophy.svg"
+ },
+ {
+  "id": 753,
+  "icon": "bx-tv.svg"
+ },
+ {
+  "id": 754,
+  "icon": "bx-underline.svg"
+ },
+ {
+  "id": 755,
+  "icon": "bx-undo.svg"
+ },
+ {
+  "id": 756,
+  "icon": "bx-unite.svg"
+ },
+ {
+  "id": 757,
+  "icon": "bx-universal-access.svg"
+ },
+ {
+  "id": 758,
+  "icon": "bx-unlink.svg"
+ },
+ {
+  "id": 759,
+  "icon": "bx-up-arrow-alt.svg"
+ },
+ {
+  "id": 760,
+  "icon": "bx-up-arrow-circle.svg"
+ },
+ {
+  "id": 761,
+  "icon": "bx-up-arrow.svg"
+ },
+ {
+  "id": 762,
+  "icon": "bx-upload.svg"
+ },
+ {
+  "id": 763,
+  "icon": "bx-upside-down.svg"
+ },
+ {
+  "id": 764,
+  "icon": "bx-upvote.svg"
+ },
+ {
+  "id": 765,
+  "icon": "bx-usb.svg"
+ },
+ {
+  "id": 766,
+  "icon": "bx-user-check.svg"
+ },
+ {
+  "id": 767,
+  "icon": "bx-user-circle.svg"
+ },
+ {
+  "id": 768,
+  "icon": "bx-user-minus.svg"
+ },
+ {
+  "id": 769,
+  "icon": "bx-user-pin.svg"
+ },
+ {
+  "id": 770,
+  "icon": "bx-user-plus.svg"
+ },
+ {
+  "id": 771,
+  "icon": "bx-user-voice.svg"
+ },
+ {
+  "id": 772,
+  "icon": "bx-user-x.svg"
+ },
+ {
+  "id": 773,
+  "icon": "bx-user.svg"
+ },
+ {
+  "id": 774,
+  "icon": "bx-vector.svg"
+ },
+ {
+  "id": 775,
+  "icon": "bx-vertical-bottom.svg"
+ },
+ {
+  "id": 776,
+  "icon": "bx-vertical-center.svg"
+ },
+ {
+  "id": 777,
+  "icon": "bx-vertical-top.svg"
+ },
+ {
+  "id": 778,
+  "icon": "bx-vial.svg"
+ },
+ {
+  "id": 779,
+  "icon": "bx-video-off.svg"
+ },
+ {
+  "id": 780,
+  "icon": "bx-video-plus.svg"
+ },
+ {
+  "id": 781,
+  "icon": "bx-video-recording.svg"
+ },
+ {
+  "id": 782,
+  "icon": "bx-video.svg"
+ },
+ {
+  "id": 783,
+  "icon": "bx-voicemail.svg"
+ },
+ {
+  "id": 784,
+  "icon": "bx-volume-full.svg"
+ },
+ {
+  "id": 785,
+  "icon": "bx-volume-low.svg"
+ },
+ {
+  "id": 786,
+  "icon": "bx-volume-mute.svg"
+ },
+ {
+  "id": 787,
+  "icon": "bx-volume.svg"
+ },
+ {
+  "id": 788,
+  "icon": "bx-walk.svg"
+ },
+ {
+  "id": 789,
+  "icon": "bx-wallet-alt.svg"
+ },
+ {
+  "id": 790,
+  "icon": "bx-wallet.svg"
+ },
+ {
+  "id": 791,
+  "icon": "bx-water.svg"
+ },
+ {
+  "id": 792,
+  "icon": "bx-webcam.svg"
+ },
+ {
+  "id": 793,
+  "icon": "bx-wifi-0.svg"
+ },
+ {
+  "id": 794,
+  "icon": "bx-wifi-1.svg"
+ },
+ {
+  "id": 795,
+  "icon": "bx-wifi-2.svg"
+ },
+ {
+  "id": 796,
+  "icon": "bx-wifi-off.svg"
+ },
+ {
+  "id": 797,
+  "icon": "bx-wifi.svg"
+ },
+ {
+  "id": 798,
+  "icon": "bx-wind.svg"
+ },
+ {
+  "id": 799,
+  "icon": "bx-window-alt.svg"
+ },
+ {
+  "id": 800,
+  "icon": "bx-window-close.svg"
+ },
+ {
+  "id": 801,
+  "icon": "bx-window-open.svg"
+ },
+ {
+  "id": 802,
+  "icon": "bx-window.svg"
+ },
+ {
+  "id": 803,
+  "icon": "bx-windows.svg"
+ },
+ {
+  "id": 804,
+  "icon": "bx-wine.svg"
+ },
+ {
+  "id": 805,
+  "icon": "bx-wink-smile.svg"
+ },
+ {
+  "id": 806,
+  "icon": "bx-wink-tongue.svg"
+ },
+ {
+  "id": 807,
+  "icon": "bx-won.svg"
+ },
+ {
+  "id": 808,
+  "icon": "bx-world.svg"
+ },
+ {
+  "id": 809,
+  "icon": "bx-wrench.svg"
+ },
+ {
+  "id": 810,
+  "icon": "bx-x-circle.svg"
+ },
+ {
+  "id": 811,
+  "icon": "bx-x.svg"
+ },
+ {
+  "id": 812,
+  "icon": "bx-yen.svg"
+ },
+ {
+  "id": 813,
+  "icon": "bx-zoom-in.svg"
+ },
+ {
+  "id": 814,
+  "icon": "bx-zoom-out.svg"
+ }
+]
